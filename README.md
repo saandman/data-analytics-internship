@@ -23,5 +23,10 @@ Link to Implementation Explaination: https://medium.com/@saandman/performing-ana
 ---
 
 ## Project 2: Recognizing Handwritten Digits
+The main objective of this project is to understand the classical problem of Recognizing Handwritten Digits by computers. This is a classic classification problem in machine learning that can be traced back to the first automatic machines that needed to recognize individual characters in handwritten documents. Think about, for example, the ZIP codes on letters at the post office and the automation needed to recognize these five digits. Perfect recognition of these codes is necessary in order to sort mail automatically and efficiently.
 
-TODO
+Included among the other applications that may come to mind is OCR (Optical Character Recognition) software. OCR software must read handwritten text, or pages of printed books, for general electronic documents in which each character is well defined.
+
+But the problem of handwriting recognition goes farther back in time, more precisely to the early 20th Century (1920s), when Emanuel Goldberg (1881–1970) began his studies regarding this issue and suggested that a statistical approach would be an optimal choice.
+
+Link to Implementation Explaination: https://saandman.medium.com/recognizing-handwritten-digits-using-machine-learning-747e35e201e3
